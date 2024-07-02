@@ -1,7 +1,2 @@
 keras
-pandas
-scikit-image
-tensorflow-datasets
-tensorflow-hub
-tensorflow-text
 tensorflow
